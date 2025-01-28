@@ -1,5 +1,5 @@
 # HWANet
-The core code and the GitHub repository are provided. Simply add the required code to YOLOv8 according to the YAML file to run it.
+The core code and GitHub repository are provided. Simply follow the HWANet YAML file to integrate the relevant code into YOLOv8 for execution.
 
 The download link for YOLOv8 is as follows:
    https://github.com/Pertical/YOLOv8
